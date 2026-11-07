@@ -27,3 +27,6 @@ Dist/
 
 # Logs
 *.log
+
+# Local promo production assets (large video/music/screenshots, not part of the app repo)
+Promo/
